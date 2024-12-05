@@ -11,7 +11,7 @@ app.use(cors());
 const DID_KEY = "dHdpbkB0d2ludGVjLmlv:WWB0q352wvHO0MDaZutmL";
 const ELEVENLABS_API_KEY = "83fdc8a58f32c221ba447a2bcf55186c";
 const WEBHOOK_URL =
-  "https://35d1-2405-201-3040-7072-5154-8d72-8065-1203.ngrok-free.app/webhook";
+  "https://did-video-server-production.up.railway.app/webhook";
 
 let clients = [];
 
