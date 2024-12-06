@@ -8,8 +8,8 @@ const app = express();
 app.use(bodyParser.json());
 app.use(cors());
 
-const DID_KEY = "dHdpbkB0d2ludGVjLmlv:WWB0q352wvHO0MDaZutmL";
-const ELEVENLABS_API_KEY = "83fdc8a58f32c221ba447a2bcf55186c";
+const DID_KEY = "";
+const ELEVENLABS_API_KEY = "";
 const WEBHOOK_URL =
   "https://did-video-server-production.up.railway.app/webhook";
 
